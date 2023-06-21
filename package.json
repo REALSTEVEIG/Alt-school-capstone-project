@@ -14,7 +14,7 @@
     "MongoDB",
     "TypeScript"
   ],
-  "author": "Aniebiet Afia",
+  "author": "Stephen Ignatius",
   "license": "MIT",
   "devDependencies": {
     "@types/config": "^3.3.0",
